@@ -10,7 +10,7 @@ const About = () => {
         <p className='para'>
           With over 4 years of experience as a Full Stack Developer, I
           specialize in building scalable web applications using modern
-          technologies. Expert in React, Node.js, TypeScript, cloud services,
+          technologies. Expert in React, Node.js/Nest.js, TypeScript, cloud services,
           microservices, and performance optimization. Passionate about clean
           code and agile development.
         </p>
