@@ -1,0 +1,4 @@
+interface:
+  display_name: "CI/CD Prod Autodeploy"
+  short_description: "Harden shared-env CI/CD and production deploys"
+  default_prompt: "Use $cicd-prod-autodeploy to assess or design a safe CI/CD and auto-deploy flow for this repository and target environment."
